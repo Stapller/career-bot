@@ -2,5 +2,3 @@ aiogram==3.5.0
 aiohttp
 openai
 python-dotenv
-pydantic==2.5.0
-pydantic-core==2.14.1
